@@ -1,4 +1,4 @@
-<b> Hey! I'm @adanmillard (Adan Millard) 👏</b>
+<b> Hey! I'm Adan Millard 👏</b>
 
 I'm a software developer from Auckland, New Zealand.
 
