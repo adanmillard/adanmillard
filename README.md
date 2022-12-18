@@ -4,9 +4,7 @@ I'm a software developer from Auckland, New Zealand.
 
 I've been studying with <b>Mission Ready HQ</b> since May of 2022. Before that I was a Warehouse Manger 💪
 
-I have been studying Full Stack Development, my true passion lies with Front End Development, I like to build UI's in React. 
-
-At the moment most of my time is spent making projects through Mission Ready, I've built projects using, HTML, CSS, Javascript, Node.JS, Express, MySQL, Mongo DB, React.JS and have learnt CI/CD with Github Actions and Firebase deployment.
+I have been studying Full Stack Development, using React/ Angular frontend's and Node.js/.Net Backends and SQL/Mongo Databases. 
 
 <b>
 Bit about me: </br>
