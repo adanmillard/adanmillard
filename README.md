@@ -2,7 +2,7 @@
 
 I'm a software developer from Auckland, New Zealand.
 
-I've been studying with <b>Mission Ready HQ</b> since May of 2022. Before that I was a Warehouse Manger 💪
+I've been studying with <b>Mission Ready HQ</b> since May of 2022 and completed studying in December of 2022, now working as a Business Development Manager until I can find something in the Tech space. 
 
 I have been studying Full Stack Development, using React/ Angular frontend's and Node.js/.Net Backends and SQL/Mongo Databases. 
 
