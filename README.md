@@ -6,6 +6,12 @@ I've been studying with <b>Mission Ready HQ</b> since May of 2022 and completed 
 
 I have been studying Full Stack Development, using React/ Angular frontend's and Node.js/.Net Backends and SQL/Mongo Databases. 
 
+<b>Creator of:</b> 
+https://isittoohotforpants.com. 
+
+<b>Under Development: </b>
+Fitness Helper
+
 <b>
 Bit about me: </br>
 Love going to the gym 💪💪 </br>
